@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205125754572",
+    "project_id": "cruzesafe",
+    "storage_bucket": "cruzesafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205125754572:android:308cf42dd09df068a12c69",
+        "android_client_info": {
+          "package_name": "com.cruzesafecli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205125754572-hhdpj8kva08l6c7lujoud475dgbtdrag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cruzesafecli",
+            "certificate_hash": "513c5be74bfdde7f9cf6b1fd24c131c3b7864032"
+          }
+        },
+        {
+          "client_id": "205125754572-3ndj1igtde7m724vhv0s968euuq3c69d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZhSwGM1v8_AzN0s5SUd4eilbkm5am-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205125754572-3ndj1igtde7m724vhv0s968euuq3c69d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
